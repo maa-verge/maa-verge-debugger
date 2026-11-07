@@ -1,8 +1,8 @@
-# MaaFW Debugger
+# Maa Verge Debugger
 
 面向 [MaaFramework（MaaFW）](https://github.com/MaaXYZ/MaaFramework) 的独立 Pipeline 编辑与调试工具，由 [maa-verge](https://github.com/maa-verge) 组织维护。
 
-当前处于规划阶段，尚无可用安装包或调试实现。开发范围与进度见[项目计划](https://github.com/maa-verge/maafw-debugger/issues/1)。
+当前处于规划阶段，尚无可用安装包或调试实现。开发范围与进度见[项目计划](https://github.com/maa-verge/maa-verge-debugger/issues/1)。
 
 ## 计划能力
 
@@ -22,7 +22,7 @@ Windows、macOS、Linux 为支持目标，兼容范围以未来实际验证结�
 
 ## 参与
 
-功能建议、设计讨论与问题反馈请提交到 [Issues](https://github.com/maa-verge/maafw-debugger/issues)。当前仓库用于建立项目定位和开发计划，具体技术栈与实现将分阶段确定。
+功能建议、设计讨论与问题反馈请提交到 [Issues](https://github.com/maa-verge/maa-verge-debugger/issues)。当前仓库用于建立项目定位和开发计划，具体技术栈与实现将分阶段确定。
 
 ## 许可与致谢
 
